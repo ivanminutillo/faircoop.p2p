@@ -1,0 +1,27 @@
+.app {
+  padding: 20px;
+}
+
+.main_header {
+
+}
+
+.header_logo {
+
+}
+
+.logo_earth {
+  animation: App-logo-spin infinite 20s linear;
+  height: 35px;
+  background: url('./earth.svg');
+  background-size:cover;
+
+}
+
+.App-logo {
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
